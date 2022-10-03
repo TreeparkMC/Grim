@@ -40,7 +40,7 @@ dependencies {
     implementation 'it.unimi.dsi:fastutil:8.5.8'
     implementation 'org.jetbrains:annotations:23.0.0' // Why is this needed to compile?
     implementation 'github.scarsz:configuralize:1.4.0'
-    implementation 'com.github.puregero:multilib:1.1.6'
+    implementation 'com.github.puregero:multilib:1.1.8'
 
     implementation 'com.github.MWHunter:GrimAPI:-SNAPSHOT'
     //used for local testing: implementation 'ac.grim.grimac:GrimAPI:1.0'
