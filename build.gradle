@@ -45,7 +45,7 @@ dependencies {
     implementation 'com.github.MWHunter:GrimAPI:-SNAPSHOT'
     //used for local testing: implementation 'ac.grim.grimac:GrimAPI:1.0'
 
-    compileOnly 'org.geysermc.floodgate:api:2.0-SNAPSHOT'
+    compileOnly 'org.geysermc.floodgate:api:2.2.2-SNAPSHOT'
     compileOnly 'org.spigotmc:spigot-api:1.18-R0.1-SNAPSHOT'
     compileOnly 'com.viaversion:viaversion-api:4.4.2'
     compileOnly 'org.projectlombok:lombok:1.18.24'
